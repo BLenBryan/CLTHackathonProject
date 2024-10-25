@@ -1,12 +1,9 @@
 Hackathon Project Ideas
 
-1. Drone Network to deliver and receive packages
+1. Drone Network will deliver and receive packages, an app that will take you to your location, and a drone will deliver that package/mail/etc for you.
 2. More efficient PassioGo path to minimize wait time and stop
 3. Database for all things sustainable (names ideas: EcoNiner, -)
-4. High-level GPS that automatically selects the most efficient pathway to classes, bus routes, etc.
-5. 
-
-5. Transportation app that connects to multiple UNC Charlotte databases such as course scheduling, parking, etc. 
+4. Transportation app that connects to multiple UNC Charlotte databases such as course scheduling, parking, etc. 
 It'll tell students both in and off campus the most sustainable method for getting to their classes. They will import 
 their course schedules for the coming semester, and it'll remind you to leave for your class on time based on the time 
 it'll take you to get there depending on if you're walking, driving, etc. In terms of driving, the app will tell users 
